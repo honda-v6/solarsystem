@@ -9,9 +9,9 @@ See LICENSE.TXT*/
 #ifdef _WIN32
 #include <Windows.h>
 #endif
-#include <gl\gl.h>
-#include <gl\glut.h>
-#include <GL\glu.h>
+#include <GL/gl.h>
+#include <GL/glut.h>
+#include <GL/glu.h>
 
 #include "tga.h"
 #include "solarsystem.h"

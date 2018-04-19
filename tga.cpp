@@ -11,8 +11,8 @@ See LICENSE.TXT*/
 #ifdef _WIN32
 #include <Windows.h>
 #endif
-#include <gl\GL.h>
-#include <gl\GLU.h>
+#include <GL/gl.h>
+#include <GL/glu.h>
 
 // define the header struct for
 // loading the TGA header info.
